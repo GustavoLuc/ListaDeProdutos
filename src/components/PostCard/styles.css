@@ -1,0 +1,22 @@
+.post{
+    background: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    transition: transform 100ms ease-in-out;
+    border-radius: 20px;
+    
+  }
+  
+  .post:hover{
+    transform: scale(1.06);
+  }
+  
+  .post-card{
+    padding: 30px;
+    
+  }
+  
+  .post img{
+    max-width: 100%;
+    border-radius: 20px 20px 0 0;
+  }
+  

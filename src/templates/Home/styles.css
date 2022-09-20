@@ -1,0 +1,22 @@
+.container{
+max-width: 1200px;
+margin:0 auto;
+min-height: 100vh;
+background: #eee;
+padding: 30px;
+}
+
+.btn-container{
+   min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.search-container{
+    margin-bottom: 20px;
+}
+.search-container h1{
+    margin-bottom: 20px;
+}

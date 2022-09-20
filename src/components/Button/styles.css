@@ -1,0 +1,13 @@
+ .btn-load{
+   width: 50%;
+   background:rgba(59, 168, 74, 0.678);
+   border: none;
+   padding: 15px 20px;
+   border-radius: 20px;
+   cursor: pointer;
+} 
+
+.btn-load:disabled{
+    background: #888;
+    cursor: not-allowed
+}
